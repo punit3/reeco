@@ -1,0 +1,13 @@
+.btn-grp-container{
+    display: flex;
+    justify-content: flex-end;
+    align-items: baseline;
+}
+
+.order-num{
+    padding: 5% 0;
+    font-size: 22px;
+    font-weight: bold;
+    vertical-align: baseline;
+    display: table-cell;
+}

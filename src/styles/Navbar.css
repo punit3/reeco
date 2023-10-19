@@ -1,0 +1,14 @@
+.bg-body-tertiary {
+    
+    background-color: #2e682e !important;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.navbar-brand{
+    color: white;
+    font-family: 'Russo One';font-size: 22px;
+}
+

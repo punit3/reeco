@@ -1,0 +1,74 @@
+.border-rt{
+    border-right: 1px solid #cbcbcb;
+
+}
+
+.container-header{
+    padding: 22px 30px;
+    background: white;
+    margin-top: 20px;
+    border-radius: 8px;
+    border: 1px solid #e7e7e7;
+}
+
+.header-title {
+    font-weight: 600;
+    color: grey;
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+.header-data {
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.2;
+}
+
+.order-details-container{
+    margin: 10px 4px 0px 4px;
+    border: 1px solid #c8c8c8;
+    border-radius: 4px;
+    padding: 6px 4px;
+    color: #6d6d6d;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.badge-style{
+    padding: 4% 10%;
+    color: white;
+    border-radius: 22px;
+    font-size: 14px;
+    font-family: 'Poppins';
+    font-weight: 400;
+}
+
+
+.edit-popup-labels{
+    display: block;
+    font-size: 14px;
+    margin: 12px 2px;
+    color: #5f5f5f;
+    /* font-weight: 600; */
+    font-family: sans-serif;
+}
+
+input.edit-popup-input {
+    border: 1px solid grey;
+    border-radius: 10px;
+    margin: 4px 0px;
+    padding: 6px 8px;
+    font-size: 12px;
+    color: #444444;
+}
+.edit-reasons{
+
+    font-size: 12px;
+    border: 1px solid #c9c9c9;
+    padding: 4px 10px;
+    border-radius: 18px;
+    color: #444040;
+    margin: 2px 5px;
+    cursor:"pointer"
+
+}
