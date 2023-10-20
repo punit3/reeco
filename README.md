@@ -16,6 +16,14 @@ start the json-server to fetch data with api from json-server as backend server 
 please make sure to run the json server on port 3000
 
 
+### `npm install`
+
+installs all the packages
+
+### `npm start`
+
+Runs the app in the development mode.\
+
 
 ### `npm run build`
 
@@ -27,8 +35,5 @@ Builds the app for production to the `build` folder.\
 Your app is running in production mode on port 5000 !
 
 
-### `npm start`
-
-Runs the app in the development mode.\
 
 
