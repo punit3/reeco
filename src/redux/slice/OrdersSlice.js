@@ -2,7 +2,7 @@ import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
 
 export const fetchOrders = createAsyncThunk("fetchOrders", async () => {
 
-    const res = await fetch(`http://localhost:3000/orders`);
+    const res = await fetch(`https://reeco-server.onrender.com/orders`);
     // console.log('api-res',res.json())
     return res?.json();
 });
